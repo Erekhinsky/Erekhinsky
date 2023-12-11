@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erekhinsky&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erekhinsky&repo=highload&theme=radical)](https://github.com/Erekhinsky/highload)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erekhinsky&repo=highload,ProgLab7&theme=radical)](https://github.com/Erekhinsky/highload)(https://github.com/Erekhinsky/ProgLab7)
