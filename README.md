@@ -9,4 +9,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,c,linux)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erekhinsky&hide=php,html&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erekhinsky&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
