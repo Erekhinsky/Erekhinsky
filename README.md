@@ -1,5 +1,5 @@
 ## Привет всем, я Андрей 👋
-### Начинающий Java разработчик, студент ИТМО
+### Начинающий Java разработчик, выпускник ИТМО (2024г.)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/erekh_in_sky)](https://t.me/erekh_in_sky)
 <p align="left"> 
   <img src=https://komarev.com/ghpvc/?username=erekhinsky&color=C70039&label=PROFILE+VIEWS alt=erekhinsky/> 
